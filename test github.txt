@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1111
 
 222
@@ -18,3 +19,6 @@
 =======
 2222
 >>>>>>> parent of 132d20c... second update2
+=======
+1111
+>>>>>>> parent of a226cb2... second update
